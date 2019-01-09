@@ -27,4 +27,4 @@ How to install
   * website Historical Network Analysis
   * show a few examples, explain what network is
   * trees, grids, etc.
-  * 
+  * make your own network with pen and paper
