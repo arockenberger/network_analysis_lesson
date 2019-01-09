@@ -23,3 +23,8 @@ How to install
 ## Lesson setup
 
 1. Introduction to Networks
+  * based on intro chapter from Complex Network Analysis for Python
+  * website Historical Network Analysis
+  * show a few examples, explain what network is
+  * trees, grids, etc.
+  * 
